@@ -18,7 +18,12 @@ theme = "beautifulhugo"
     weight = 2
 
 [[menu.main]]
-    name = "Contact"
+    name = "Resume"
     url = ""
     weight = 3
 
+[Author]
+  name = "Stefan Heinze"
+  website = "www.stefanheinze.com"
+  linkedin = "stefangheinze"
+  github = "sgheinze12"
