@@ -5,7 +5,7 @@ theme = "beautifulhugo"
 
 [Params]
     subtitle = "Data Science"
-    logo = "/Stefan.jpeg"
+    logo = "/images/Stefan.jpeg"
 
 [[menu.main]]
     name = "About"
