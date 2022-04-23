@@ -1,4 +1,4 @@
-baseURL = 'https://www.wstefanheinze.com"
+baseURL = 'https://www.wstefanheinze.com'
 languageCode = 'en-us'
 title = 'Stefan Heinze'
 theme = "beautifulhugo"
