@@ -28,3 +28,8 @@ theme = "beautifulhugo"
   website = "www.stefanheinze.com"
   linkedin = "stefangheinze"
   github = "sgheinze12"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
