@@ -25,9 +25,10 @@ theme = "beautifulhugo"
 
 [Author]
   name = "Stefan Heinze"
-  website = "www.stefanheinze.com"
+  website = "https://www.stefanheinze.com"
   linkedin = "stefangheinze"
   github = "sgheinze12"
+  email = "stefan.g.heinze@gmail.com"
 
 [markup]
   [markup.goldmark]
