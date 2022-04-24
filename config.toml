@@ -2,6 +2,7 @@ baseURL = 'https://www.stefanheinze.com'
 languageCode = 'en-us'
 title = 'Stefan Heinze'
 theme = "beautifulhugo"
+googleAnalytics = "G-335S8PJ1KX"
 
 [Params]
     subtitle = "Data Scientist | New York City, New York"
