@@ -6,6 +6,7 @@ theme = "beautifulhugo"
 [Params]
     subtitle = "Data Scientist | New York City, New York"
     logo = "/images/Stefan.jpeg"
+    topleft = ""
 
 [[menu.main]]
     name = "About"
