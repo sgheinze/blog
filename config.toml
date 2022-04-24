@@ -4,12 +4,12 @@ title = 'Stefan Heinze'
 theme = "beautifulhugo"
 
 [Params]
-    subtitle = "Data Science"
+    subtitle = "Data Scientist | New York City, New York"
     logo = "/images/Stefan.jpeg"
 
 [[menu.main]]
     name = "About"
-    url = ""
+    url = "/about"
     weight = 1
 
 [[menu.main]]
@@ -18,7 +18,7 @@ theme = "beautifulhugo"
     weight = 2
 
 [[menu.main]]
-    name = "Resume"
+    name = "Links"
     url = ""
     weight = 3
 
