@@ -20,7 +20,7 @@ theme = "beautifulhugo"
 
 [[menu.main]]
     name = "Links"
-    url = ""
+    url = "/links"
     weight = 3
 
 [Author]
